@@ -150,6 +150,8 @@ keys = {
   "DebugUi1": [TxType.PERSISTENT],
   "DebugUi2": [TxType.PERSISTENT],
   "OpkrBlindSpotDetect": [TxType.PERSISTENT],  
+  "OpkrMaxAngleLimit": [TxType.PERSISTENT],
+  "OpkrAutoResumeOption": [TxType.PERSISTENT],  
 }
 
 

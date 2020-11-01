@@ -839,7 +839,10 @@ struct Plan {
 
   processingDelay @29 :Float32;
 
-
+  ddRel @32 :Float32;
+  yyRel @33 :Float32;
+  vvRel @34 :Float32;
+  
   struct GpsTrajectory {
     x @0 :List(Float32);
     y @1 :List(Float32);
